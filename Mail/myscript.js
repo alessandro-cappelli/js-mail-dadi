@@ -1,6 +1,6 @@
 let email = ["luca@gmail.it", "ale@gmail.it", "andrea@gmail.it"];
 
-let insertEmail = prompt('inserisci la tua emai');
+let insertEmail = prompt('inserisci la tua email');
 let controllo = false;
 
 for(let index = 0; index < email.length; index++){
